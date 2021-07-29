@@ -1,0 +1,27 @@
+{
+  "name": "avalithskillnode",
+  "version": "1.0.0",
+  "description": "Avalith Skill Factory Challenge. A Node.js project to run a simple API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielPrzC/AvalithSkillNode.git"
+  },
+  "keywords": [
+    "node",
+    "challenge",
+    "api"
+  ],
+  "author": "Daniel Perez Castejon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DanielPrzC/AvalithSkillNode/issues"
+  },
+  "homepage": "https://github.com/DanielPrzC/AvalithSkillNode#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
